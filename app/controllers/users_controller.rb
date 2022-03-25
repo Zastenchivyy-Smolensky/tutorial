@@ -19,3 +19,5 @@ class UsersController < ApplicationController
     @users = user.followers
   end
 end
+
+
